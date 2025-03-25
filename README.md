@@ -1,8 +1,7 @@
 # ChatGPT Automation using Selenium and Python
 
 ## Watch the demo of this project:
-
-https://github.com/user-attachments/assets/ff51d487-8615-4bca-8752-1b98d263ded2
+https://github.com/user-attachments/assets/8b21a0d8-0bca-47e4-88e8-32e974dd506e
 
 This project automates the process of interacting with ChatGPT through a web browser using Python, Selenium, and `undetected-chromedriver`. It simulates human-like interactions, manages the browser window, and handles prompts dynamically.
 
